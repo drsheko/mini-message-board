@@ -6,3 +6,18 @@ body {
 a {
   color: #00B7FF;
 }
+
+.message-container{
+  border-left: green 5px solid;
+  background-color: aliceblue;
+  padding:1px 5px ; 
+  margin: 20px 10px;
+}
+
+.message-container:hover{
+  cursor: pointer;
+  margin-left: 15px;
+}
+a{
+  text-decoration: none;
+}
